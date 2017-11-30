@@ -2,3 +2,5 @@ testing the tracking of GIt
 One more time
 
 In working directory
+
+Made changes in local file which has also been changed in Remote Directory.
